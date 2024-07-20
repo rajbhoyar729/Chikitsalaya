@@ -1,6 +1,7 @@
 
 # Chikitsalaya
 
+A New platform to track  health and  maintain health information digitally
 
 ## Getting Started
 
