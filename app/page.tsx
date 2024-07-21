@@ -15,7 +15,7 @@ export default function Home() {
         <div className="sub-container  max-w-[496px] " >
         <div className="w-40 h-20 flex">
           <Image 
-           src="logo.svg"
+           src="/assets/icons/Logo.svg"
            height={1000}
            width={1000}
            alt="patient"

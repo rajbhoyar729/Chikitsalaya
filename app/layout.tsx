@@ -14,7 +14,6 @@ export const metadata: Metadata = {
   title: "Chikitsalaya",
   description: "A New platform to track  health and  maintain health information digitally",
 };
-
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -29,6 +28,7 @@ export default function RootLayout({
             disableTransitionOnChange
           >
             {children}
+
           </ThemeProvider></body>
     </html>
   );
