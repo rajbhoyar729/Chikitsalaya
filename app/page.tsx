@@ -18,6 +18,7 @@ export default function Home() {
            src="/assets/icons/Logo.svg"
            height={1000}
            width={1000}
+           quality={1000}
            alt="patient"
            className="mb-12 h-10 w-fit rounded-r-3xl "
            />
